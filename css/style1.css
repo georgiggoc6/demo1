@@ -1,2 +1,8 @@
-.main h3{color: #ffad60 ; font-family: sans-serif;
+.main h3 {
+    color: #ffad60;
+    font-family: sans-serif;
+}
+
+h3{
+    text-decoration: none;
 }
